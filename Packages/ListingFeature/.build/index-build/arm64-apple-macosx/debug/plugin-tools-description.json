@@ -1,0 +1,538 @@
+{
+  "builtTestProducts" : [
+
+  ],
+  "copyCommands" : {
+
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.CommonUI-arm64-apple-macosx26.0-debug.module" : {
+      "executable" : "/Applications/Xcode26.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/CommonUI.build/sources",
+      "importPath" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/CommonUI/Sources/CommonUI/EmptyStateView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/CommonUI/Sources/CommonUI/ErrorStateView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/CommonUI/Sources/CommonUI/InfoBanner.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/CommonUI/Sources/CommonUI/LoadingListView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/CommonUI/Sources/CommonUI/Shimmer.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/CommonUI/Sources/CommonUI/UIViewController+EmbedSwiftUI.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/swift-version-713D9AED83B7BD26.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/CommonUI.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "CommonUI",
+      "moduleOutputPath" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/Modules/CommonUI.swiftmodule",
+      "objects" : [
+        "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/CommonUI.build/EmptyStateView.swift.o",
+        "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/CommonUI.build/ErrorStateView.swift.o",
+        "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/CommonUI.build/InfoBanner.swift.o",
+        "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/CommonUI.build/LoadingListView.swift.o",
+        "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/CommonUI.build/Shimmer.swift.o",
+        "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/CommonUI.build/UIViewController+EmbedSwiftUI.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.13",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j10",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/CommonUI.build/include/CommonUI-Swift.h",
+        "-swift-version",
+        "5",
+        "-Xfrontend",
+        "-experimental-lazy-typecheck",
+        "-Xfrontend",
+        "-experimental-skip-all-function-bodies",
+        "-Xfrontend",
+        "-experimental-allow-module-with-compiler-errors",
+        "-Xfrontend",
+        "-empty-abi-descriptor",
+        "-plugin-path",
+        "/Applications/Xcode26.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode26.3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+        "-F",
+        "/Applications/Xcode26.3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-F",
+        "/Applications/Xcode26.3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-I",
+        "/Applications/Xcode26.3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode26.3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode26.3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode26.3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode26.3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "commonui"
+      ],
+      "outputFileMapPath" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/CommonUI.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/Modules/CommonUI.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : true,
+      "sources" : [
+        "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/CommonUI/Sources/CommonUI/EmptyStateView.swift",
+        "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/CommonUI/Sources/CommonUI/ErrorStateView.swift",
+        "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/CommonUI/Sources/CommonUI/InfoBanner.swift",
+        "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/CommonUI/Sources/CommonUI/LoadingListView.swift",
+        "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/CommonUI/Sources/CommonUI/Shimmer.swift",
+        "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/CommonUI/Sources/CommonUI/UIViewController+EmbedSwiftUI.swift"
+      ],
+      "tempsPath" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/CommonUI.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.DomainKit-arm64-apple-macosx26.0-debug.module" : {
+      "executable" : "/Applications/Xcode26.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/DomainKit.build/sources",
+      "importPath" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/DomainKit/Sources/DomainKit/Entities/University.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/DomainKit/Sources/DomainKit/Repositories/UniversityRepository.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/DomainKit/Sources/DomainKit/UseCases/LoadUniversitiesUseCase.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/DomainKit/Sources/DomainKit/UseCases/RefreshUniversitiesUseCase.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/DomainKit/Sources/DomainKit/UseCases/University+Normalization.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/swift-version-713D9AED83B7BD26.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/DomainKit.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "DomainKit",
+      "moduleOutputPath" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/Modules/DomainKit.swiftmodule",
+      "objects" : [
+        "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/DomainKit.build/University.swift.o",
+        "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/DomainKit.build/UniversityRepository.swift.o",
+        "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/DomainKit.build/LoadUniversitiesUseCase.swift.o",
+        "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/DomainKit.build/RefreshUniversitiesUseCase.swift.o",
+        "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/DomainKit.build/University+Normalization.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.13",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j10",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/DomainKit.build/include/DomainKit-Swift.h",
+        "-swift-version",
+        "5",
+        "-Xfrontend",
+        "-experimental-lazy-typecheck",
+        "-Xfrontend",
+        "-experimental-skip-all-function-bodies",
+        "-Xfrontend",
+        "-experimental-allow-module-with-compiler-errors",
+        "-Xfrontend",
+        "-empty-abi-descriptor",
+        "-plugin-path",
+        "/Applications/Xcode26.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode26.3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+        "-F",
+        "/Applications/Xcode26.3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-F",
+        "/Applications/Xcode26.3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-I",
+        "/Applications/Xcode26.3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode26.3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode26.3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode26.3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode26.3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "domainkit"
+      ],
+      "outputFileMapPath" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/DomainKit.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/Modules/DomainKit.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : true,
+      "sources" : [
+        "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/DomainKit/Sources/DomainKit/Entities/University.swift",
+        "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/DomainKit/Sources/DomainKit/Repositories/UniversityRepository.swift",
+        "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/DomainKit/Sources/DomainKit/UseCases/LoadUniversitiesUseCase.swift",
+        "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/DomainKit/Sources/DomainKit/UseCases/RefreshUniversitiesUseCase.swift",
+        "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/DomainKit/Sources/DomainKit/UseCases/University+Normalization.swift"
+      ],
+      "tempsPath" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/DomainKit.build",
+      "wholeModuleOptimization" : false
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "CommonUI" : [
+      "/Applications/Xcode26.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "CommonUI",
+      "-package-name",
+      "commonui",
+      "-c",
+      "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/CommonUI/Sources/CommonUI/EmptyStateView.swift",
+      "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/CommonUI/Sources/CommonUI/ErrorStateView.swift",
+      "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/CommonUI/Sources/CommonUI/InfoBanner.swift",
+      "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/CommonUI/Sources/CommonUI/LoadingListView.swift",
+      "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/CommonUI/Sources/CommonUI/Shimmer.swift",
+      "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/CommonUI/Sources/CommonUI/UIViewController+EmbedSwiftUI.swift",
+      "-I",
+      "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx10.13",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j10",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/CommonUI.build/include/CommonUI-Swift.h",
+      "-swift-version",
+      "5",
+      "-Xfrontend",
+      "-experimental-lazy-typecheck",
+      "-Xfrontend",
+      "-experimental-skip-all-function-bodies",
+      "-Xfrontend",
+      "-experimental-allow-module-with-compiler-errors",
+      "-Xfrontend",
+      "-empty-abi-descriptor",
+      "-plugin-path",
+      "/Applications/Xcode26.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode26.3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+      "-F",
+      "/Applications/Xcode26.3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-F",
+      "/Applications/Xcode26.3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-I",
+      "/Applications/Xcode26.3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode26.3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode26.3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode26.3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode26.3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "commonui",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode26.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "DomainKit" : [
+      "/Applications/Xcode26.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "DomainKit",
+      "-package-name",
+      "domainkit",
+      "-c",
+      "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/DomainKit/Sources/DomainKit/Entities/University.swift",
+      "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/DomainKit/Sources/DomainKit/Repositories/UniversityRepository.swift",
+      "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/DomainKit/Sources/DomainKit/UseCases/LoadUniversitiesUseCase.swift",
+      "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/DomainKit/Sources/DomainKit/UseCases/RefreshUniversitiesUseCase.swift",
+      "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/DomainKit/Sources/DomainKit/UseCases/University+Normalization.swift",
+      "-I",
+      "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx10.13",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j10",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/DomainKit.build/include/DomainKit-Swift.h",
+      "-swift-version",
+      "5",
+      "-Xfrontend",
+      "-experimental-lazy-typecheck",
+      "-Xfrontend",
+      "-experimental-skip-all-function-bodies",
+      "-Xfrontend",
+      "-experimental-allow-module-with-compiler-errors",
+      "-Xfrontend",
+      "-empty-abi-descriptor",
+      "-plugin-path",
+      "/Applications/Xcode26.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode26.3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+      "-F",
+      "/Applications/Xcode26.3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-F",
+      "/Applications/Xcode26.3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-I",
+      "/Applications/Xcode26.3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode26.3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode26.3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode26.3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode26.3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "domainkit",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode26.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ]
+  },
+  "targetDependencyMap" : {
+    "CommonUI" : [
+
+    ],
+    "DomainKit" : [
+
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+
+  },
+  "traitConfiguration" : {
+    "default" : {
+
+    }
+  },
+  "writeCommands" : {
+    "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/CommonUI.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/CommonUI/Sources/CommonUI/EmptyStateView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/CommonUI/Sources/CommonUI/ErrorStateView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/CommonUI/Sources/CommonUI/InfoBanner.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/CommonUI/Sources/CommonUI/LoadingListView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/CommonUI/Sources/CommonUI/Shimmer.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/CommonUI/Sources/CommonUI/UIViewController+EmbedSwiftUI.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/CommonUI.build/sources"
+    },
+    "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/DomainKit.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/DomainKit/Sources/DomainKit/Entities/University.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/DomainKit/Sources/DomainKit/Repositories/UniversityRepository.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/DomainKit/Sources/DomainKit/UseCases/LoadUniversitiesUseCase.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/DomainKit/Sources/DomainKit/UseCases/RefreshUniversitiesUseCase.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/DomainKit/Sources/DomainKit/UseCases/University+Normalization.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/DomainKit.build/sources"
+    },
+    "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/swift-version-713D9AED83B7BD26.txt" : {
+      "alwaysOutOfDate" : true,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<swift-get-version>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/Xcode26.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+        }
+      ],
+      "outputFilePath" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/swift-version-713D9AED83B7BD26.txt"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "": {
+    "swift-dependencies": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/PersistenceKit/.build/index-build/arm64-apple-macosx/debug/NetworkKit.build/master.swiftdeps"
+  },
+  "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/NetworkKit/Sources/NetworkKit/Endpoint.swift": {
+    "dependencies": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/PersistenceKit/.build/index-build/arm64-apple-macosx/debug/NetworkKit.build/Endpoint.d",
+    "object": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/PersistenceKit/.build/index-build/arm64-apple-macosx/debug/NetworkKit.build/Endpoint.swift.o",
+    "swiftmodule": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/PersistenceKit/.build/index-build/arm64-apple-macosx/debug/NetworkKit.build/Endpoint~partial.swiftmodule",
+    "swift-dependencies": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/PersistenceKit/.build/index-build/arm64-apple-macosx/debug/NetworkKit.build/Endpoint.swiftdeps",
+    "diagnostics": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/PersistenceKit/.build/index-build/arm64-apple-macosx/debug/NetworkKit.build/Endpoint.dia"
+  },
+  "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/NetworkKit/Sources/NetworkKit/HTTPMethod.swift": {
+    "dependencies": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/PersistenceKit/.build/index-build/arm64-apple-macosx/debug/NetworkKit.build/HTTPMethod.d",
+    "object": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/PersistenceKit/.build/index-build/arm64-apple-macosx/debug/NetworkKit.build/HTTPMethod.swift.o",
+    "swiftmodule": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/PersistenceKit/.build/index-build/arm64-apple-macosx/debug/NetworkKit.build/HTTPMethod~partial.swiftmodule",
+    "swift-dependencies": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/PersistenceKit/.build/index-build/arm64-apple-macosx/debug/NetworkKit.build/HTTPMethod.swiftdeps",
+    "diagnostics": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/PersistenceKit/.build/index-build/arm64-apple-macosx/debug/NetworkKit.build/HTTPMethod.dia"
+  },
+  "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/NetworkKit/Sources/NetworkKit/NetworkClient.swift": {
+    "dependencies": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/PersistenceKit/.build/index-build/arm64-apple-macosx/debug/NetworkKit.build/NetworkClient.d",
+    "object": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/PersistenceKit/.build/index-build/arm64-apple-macosx/debug/NetworkKit.build/NetworkClient.swift.o",
+    "swiftmodule": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/PersistenceKit/.build/index-build/arm64-apple-macosx/debug/NetworkKit.build/NetworkClient~partial.swiftmodule",
+    "swift-dependencies": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/PersistenceKit/.build/index-build/arm64-apple-macosx/debug/NetworkKit.build/NetworkClient.swiftdeps",
+    "diagnostics": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/PersistenceKit/.build/index-build/arm64-apple-macosx/debug/NetworkKit.build/NetworkClient.dia"
+  },
+  "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/NetworkKit/Sources/NetworkKit/NetworkError.swift": {
+    "dependencies": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/PersistenceKit/.build/index-build/arm64-apple-macosx/debug/NetworkKit.build/NetworkError.d",
+    "object": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/PersistenceKit/.build/index-build/arm64-apple-macosx/debug/NetworkKit.build/NetworkError.swift.o",
+    "swiftmodule": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/PersistenceKit/.build/index-build/arm64-apple-macosx/debug/NetworkKit.build/NetworkError~partial.swiftmodule",
+    "swift-dependencies": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/PersistenceKit/.build/index-build/arm64-apple-macosx/debug/NetworkKit.build/NetworkError.swiftdeps",
+    "diagnostics": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/PersistenceKit/.build/index-build/arm64-apple-macosx/debug/NetworkKit.build/NetworkError.dia"
+  },
+  "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/NetworkKit/Sources/NetworkKit/URLSessionNetworkClient.swift": {
+    "dependencies": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/PersistenceKit/.build/index-build/arm64-apple-macosx/debug/NetworkKit.build/URLSessionNetworkClient.d",
+    "object": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/PersistenceKit/.build/index-build/arm64-apple-macosx/debug/NetworkKit.build/URLSessionNetworkClient.swift.o",
+    "swiftmodule": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/PersistenceKit/.build/index-build/arm64-apple-macosx/debug/NetworkKit.build/URLSessionNetworkClient~partial.swiftmodule",
+    "swift-dependencies": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/PersistenceKit/.build/index-build/arm64-apple-macosx/debug/NetworkKit.build/URLSessionNetworkClient.swiftdeps",
+    "diagnostics": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/PersistenceKit/.build/index-build/arm64-apple-macosx/debug/NetworkKit.build/URLSessionNetworkClient.dia"
+  }
+}

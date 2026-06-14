@@ -1,0 +1,41 @@
+{
+  "object" : {
+    "artifacts" : [
+
+    ],
+    "dependencies" : [
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "domainkit",
+          "kind" : "fileSystem",
+          "location" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/DomainKit",
+          "name" : "DomainKit"
+        },
+        "state" : {
+          "name" : "fileSystem",
+          "path" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/DomainKit"
+        },
+        "subpath" : "domainkit"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "networkkit",
+          "kind" : "fileSystem",
+          "location" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/NetworkKit",
+          "name" : "NetworkKit"
+        },
+        "state" : {
+          "name" : "fileSystem",
+          "path" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/NetworkKit"
+        },
+        "subpath" : "networkkit"
+      }
+    ],
+    "prebuilts" : [
+
+    ]
+  },
+  "version" : 7
+}

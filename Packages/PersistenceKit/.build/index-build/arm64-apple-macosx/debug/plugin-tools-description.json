@@ -1,0 +1,527 @@
+{
+  "builtTestProducts" : [
+
+  ],
+  "copyCommands" : {
+
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.DomainKit-arm64-apple-macosx26.0-debug.module" : {
+      "executable" : "/Applications/Xcode26.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/PersistenceKit/.build/index-build/arm64-apple-macosx/debug/DomainKit.build/sources",
+      "importPath" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/PersistenceKit/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/DomainKit/Sources/DomainKit/Entities/University.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/DomainKit/Sources/DomainKit/Repositories/UniversityRepository.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/DomainKit/Sources/DomainKit/UseCases/LoadUniversitiesUseCase.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/DomainKit/Sources/DomainKit/UseCases/RefreshUniversitiesUseCase.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/DomainKit/Sources/DomainKit/UseCases/University+Normalization.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/PersistenceKit/.build/index-build/arm64-apple-macosx/debug/swift-version-713D9AED83B7BD26.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/PersistenceKit/.build/index-build/arm64-apple-macosx/debug/DomainKit.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "DomainKit",
+      "moduleOutputPath" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/PersistenceKit/.build/index-build/arm64-apple-macosx/debug/Modules/DomainKit.swiftmodule",
+      "objects" : [
+        "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/PersistenceKit/.build/index-build/arm64-apple-macosx/debug/DomainKit.build/University.swift.o",
+        "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/PersistenceKit/.build/index-build/arm64-apple-macosx/debug/DomainKit.build/UniversityRepository.swift.o",
+        "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/PersistenceKit/.build/index-build/arm64-apple-macosx/debug/DomainKit.build/LoadUniversitiesUseCase.swift.o",
+        "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/PersistenceKit/.build/index-build/arm64-apple-macosx/debug/DomainKit.build/RefreshUniversitiesUseCase.swift.o",
+        "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/PersistenceKit/.build/index-build/arm64-apple-macosx/debug/DomainKit.build/University+Normalization.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.13",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/PersistenceKit/.build/index-build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j10",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/PersistenceKit/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/PersistenceKit/.build/index-build/arm64-apple-macosx/debug/DomainKit.build/include/DomainKit-Swift.h",
+        "-swift-version",
+        "5",
+        "-Xfrontend",
+        "-experimental-lazy-typecheck",
+        "-Xfrontend",
+        "-experimental-skip-all-function-bodies",
+        "-Xfrontend",
+        "-experimental-allow-module-with-compiler-errors",
+        "-Xfrontend",
+        "-empty-abi-descriptor",
+        "-plugin-path",
+        "/Applications/Xcode26.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode26.3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+        "-F",
+        "/Applications/Xcode26.3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-F",
+        "/Applications/Xcode26.3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-I",
+        "/Applications/Xcode26.3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode26.3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode26.3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode26.3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode26.3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "domainkit"
+      ],
+      "outputFileMapPath" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/PersistenceKit/.build/index-build/arm64-apple-macosx/debug/DomainKit.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/PersistenceKit/.build/index-build/arm64-apple-macosx/debug/Modules/DomainKit.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : true,
+      "sources" : [
+        "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/DomainKit/Sources/DomainKit/Entities/University.swift",
+        "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/DomainKit/Sources/DomainKit/Repositories/UniversityRepository.swift",
+        "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/DomainKit/Sources/DomainKit/UseCases/LoadUniversitiesUseCase.swift",
+        "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/DomainKit/Sources/DomainKit/UseCases/RefreshUniversitiesUseCase.swift",
+        "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/DomainKit/Sources/DomainKit/UseCases/University+Normalization.swift"
+      ],
+      "tempsPath" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/PersistenceKit/.build/index-build/arm64-apple-macosx/debug/DomainKit.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.NetworkKit-arm64-apple-macosx26.0-debug.module" : {
+      "executable" : "/Applications/Xcode26.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/PersistenceKit/.build/index-build/arm64-apple-macosx/debug/NetworkKit.build/sources",
+      "importPath" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/PersistenceKit/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/NetworkKit/Sources/NetworkKit/Endpoint.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/NetworkKit/Sources/NetworkKit/HTTPMethod.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/NetworkKit/Sources/NetworkKit/NetworkClient.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/NetworkKit/Sources/NetworkKit/NetworkError.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/NetworkKit/Sources/NetworkKit/URLSessionNetworkClient.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/PersistenceKit/.build/index-build/arm64-apple-macosx/debug/swift-version-713D9AED83B7BD26.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/PersistenceKit/.build/index-build/arm64-apple-macosx/debug/NetworkKit.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "NetworkKit",
+      "moduleOutputPath" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/PersistenceKit/.build/index-build/arm64-apple-macosx/debug/Modules/NetworkKit.swiftmodule",
+      "objects" : [
+        "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/PersistenceKit/.build/index-build/arm64-apple-macosx/debug/NetworkKit.build/Endpoint.swift.o",
+        "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/PersistenceKit/.build/index-build/arm64-apple-macosx/debug/NetworkKit.build/HTTPMethod.swift.o",
+        "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/PersistenceKit/.build/index-build/arm64-apple-macosx/debug/NetworkKit.build/NetworkClient.swift.o",
+        "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/PersistenceKit/.build/index-build/arm64-apple-macosx/debug/NetworkKit.build/NetworkError.swift.o",
+        "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/PersistenceKit/.build/index-build/arm64-apple-macosx/debug/NetworkKit.build/URLSessionNetworkClient.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.13",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/PersistenceKit/.build/index-build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j10",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/PersistenceKit/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/PersistenceKit/.build/index-build/arm64-apple-macosx/debug/NetworkKit.build/include/NetworkKit-Swift.h",
+        "-swift-version",
+        "5",
+        "-Xfrontend",
+        "-experimental-lazy-typecheck",
+        "-Xfrontend",
+        "-experimental-skip-all-function-bodies",
+        "-Xfrontend",
+        "-experimental-allow-module-with-compiler-errors",
+        "-Xfrontend",
+        "-empty-abi-descriptor",
+        "-plugin-path",
+        "/Applications/Xcode26.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode26.3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+        "-F",
+        "/Applications/Xcode26.3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-F",
+        "/Applications/Xcode26.3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-I",
+        "/Applications/Xcode26.3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode26.3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode26.3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode26.3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode26.3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "networkkit"
+      ],
+      "outputFileMapPath" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/PersistenceKit/.build/index-build/arm64-apple-macosx/debug/NetworkKit.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/PersistenceKit/.build/index-build/arm64-apple-macosx/debug/Modules/NetworkKit.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : true,
+      "sources" : [
+        "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/NetworkKit/Sources/NetworkKit/Endpoint.swift",
+        "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/NetworkKit/Sources/NetworkKit/HTTPMethod.swift",
+        "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/NetworkKit/Sources/NetworkKit/NetworkClient.swift",
+        "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/NetworkKit/Sources/NetworkKit/NetworkError.swift",
+        "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/NetworkKit/Sources/NetworkKit/URLSessionNetworkClient.swift"
+      ],
+      "tempsPath" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/PersistenceKit/.build/index-build/arm64-apple-macosx/debug/NetworkKit.build",
+      "wholeModuleOptimization" : false
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "DomainKit" : [
+      "/Applications/Xcode26.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "DomainKit",
+      "-package-name",
+      "domainkit",
+      "-c",
+      "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/DomainKit/Sources/DomainKit/Entities/University.swift",
+      "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/DomainKit/Sources/DomainKit/Repositories/UniversityRepository.swift",
+      "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/DomainKit/Sources/DomainKit/UseCases/LoadUniversitiesUseCase.swift",
+      "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/DomainKit/Sources/DomainKit/UseCases/RefreshUniversitiesUseCase.swift",
+      "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/DomainKit/Sources/DomainKit/UseCases/University+Normalization.swift",
+      "-I",
+      "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/PersistenceKit/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx10.13",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/PersistenceKit/.build/index-build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j10",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/PersistenceKit/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/PersistenceKit/.build/index-build/arm64-apple-macosx/debug/DomainKit.build/include/DomainKit-Swift.h",
+      "-swift-version",
+      "5",
+      "-Xfrontend",
+      "-experimental-lazy-typecheck",
+      "-Xfrontend",
+      "-experimental-skip-all-function-bodies",
+      "-Xfrontend",
+      "-experimental-allow-module-with-compiler-errors",
+      "-Xfrontend",
+      "-empty-abi-descriptor",
+      "-plugin-path",
+      "/Applications/Xcode26.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode26.3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+      "-F",
+      "/Applications/Xcode26.3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-F",
+      "/Applications/Xcode26.3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-I",
+      "/Applications/Xcode26.3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode26.3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode26.3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode26.3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode26.3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "domainkit",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode26.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "NetworkKit" : [
+      "/Applications/Xcode26.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "NetworkKit",
+      "-package-name",
+      "networkkit",
+      "-c",
+      "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/NetworkKit/Sources/NetworkKit/Endpoint.swift",
+      "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/NetworkKit/Sources/NetworkKit/HTTPMethod.swift",
+      "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/NetworkKit/Sources/NetworkKit/NetworkClient.swift",
+      "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/NetworkKit/Sources/NetworkKit/NetworkError.swift",
+      "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/NetworkKit/Sources/NetworkKit/URLSessionNetworkClient.swift",
+      "-I",
+      "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/PersistenceKit/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx10.13",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/PersistenceKit/.build/index-build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j10",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/PersistenceKit/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/PersistenceKit/.build/index-build/arm64-apple-macosx/debug/NetworkKit.build/include/NetworkKit-Swift.h",
+      "-swift-version",
+      "5",
+      "-Xfrontend",
+      "-experimental-lazy-typecheck",
+      "-Xfrontend",
+      "-experimental-skip-all-function-bodies",
+      "-Xfrontend",
+      "-experimental-allow-module-with-compiler-errors",
+      "-Xfrontend",
+      "-empty-abi-descriptor",
+      "-plugin-path",
+      "/Applications/Xcode26.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode26.3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+      "-F",
+      "/Applications/Xcode26.3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-F",
+      "/Applications/Xcode26.3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-I",
+      "/Applications/Xcode26.3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode26.3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode26.3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode26.3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode26.3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "networkkit",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode26.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ]
+  },
+  "targetDependencyMap" : {
+    "DomainKit" : [
+
+    ],
+    "NetworkKit" : [
+
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+
+  },
+  "traitConfiguration" : {
+    "default" : {
+
+    }
+  },
+  "writeCommands" : {
+    "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/PersistenceKit/.build/index-build/arm64-apple-macosx/debug/DomainKit.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/DomainKit/Sources/DomainKit/Entities/University.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/DomainKit/Sources/DomainKit/Repositories/UniversityRepository.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/DomainKit/Sources/DomainKit/UseCases/LoadUniversitiesUseCase.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/DomainKit/Sources/DomainKit/UseCases/RefreshUniversitiesUseCase.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/DomainKit/Sources/DomainKit/UseCases/University+Normalization.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/PersistenceKit/.build/index-build/arm64-apple-macosx/debug/DomainKit.build/sources"
+    },
+    "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/PersistenceKit/.build/index-build/arm64-apple-macosx/debug/NetworkKit.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/NetworkKit/Sources/NetworkKit/Endpoint.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/NetworkKit/Sources/NetworkKit/HTTPMethod.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/NetworkKit/Sources/NetworkKit/NetworkClient.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/NetworkKit/Sources/NetworkKit/NetworkError.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/NetworkKit/Sources/NetworkKit/URLSessionNetworkClient.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/PersistenceKit/.build/index-build/arm64-apple-macosx/debug/NetworkKit.build/sources"
+    },
+    "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/PersistenceKit/.build/index-build/arm64-apple-macosx/debug/swift-version-713D9AED83B7BD26.txt" : {
+      "alwaysOutOfDate" : true,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<swift-get-version>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/Xcode26.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+        }
+      ],
+      "outputFilePath" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/PersistenceKit/.build/index-build/arm64-apple-macosx/debug/swift-version-713D9AED83B7BD26.txt"
+    }
+  }
+}

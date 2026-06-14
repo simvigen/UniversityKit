@@ -1,0 +1,40 @@
+{
+  "": {
+    "swift-dependencies": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/DomainKit.build/master.swiftdeps"
+  },
+  "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/DomainKit/Sources/DomainKit/Entities/University.swift": {
+    "dependencies": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/DomainKit.build/University.d",
+    "object": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/DomainKit.build/University.swift.o",
+    "swiftmodule": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/DomainKit.build/University~partial.swiftmodule",
+    "swift-dependencies": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/DomainKit.build/University.swiftdeps",
+    "diagnostics": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/DomainKit.build/University.dia"
+  },
+  "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/DomainKit/Sources/DomainKit/Repositories/UniversityRepository.swift": {
+    "dependencies": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/DomainKit.build/UniversityRepository.d",
+    "object": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/DomainKit.build/UniversityRepository.swift.o",
+    "swiftmodule": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/DomainKit.build/UniversityRepository~partial.swiftmodule",
+    "swift-dependencies": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/DomainKit.build/UniversityRepository.swiftdeps",
+    "diagnostics": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/DomainKit.build/UniversityRepository.dia"
+  },
+  "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/DomainKit/Sources/DomainKit/UseCases/LoadUniversitiesUseCase.swift": {
+    "dependencies": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/DomainKit.build/LoadUniversitiesUseCase.d",
+    "object": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/DomainKit.build/LoadUniversitiesUseCase.swift.o",
+    "swiftmodule": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/DomainKit.build/LoadUniversitiesUseCase~partial.swiftmodule",
+    "swift-dependencies": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/DomainKit.build/LoadUniversitiesUseCase.swiftdeps",
+    "diagnostics": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/DomainKit.build/LoadUniversitiesUseCase.dia"
+  },
+  "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/DomainKit/Sources/DomainKit/UseCases/RefreshUniversitiesUseCase.swift": {
+    "dependencies": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/DomainKit.build/RefreshUniversitiesUseCase.d",
+    "object": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/DomainKit.build/RefreshUniversitiesUseCase.swift.o",
+    "swiftmodule": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/DomainKit.build/RefreshUniversitiesUseCase~partial.swiftmodule",
+    "swift-dependencies": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/DomainKit.build/RefreshUniversitiesUseCase.swiftdeps",
+    "diagnostics": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/DomainKit.build/RefreshUniversitiesUseCase.dia"
+  },
+  "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/DomainKit/Sources/DomainKit/UseCases/University+Normalization.swift": {
+    "dependencies": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/DomainKit.build/University+Normalization.d",
+    "object": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/DomainKit.build/University+Normalization.swift.o",
+    "swiftmodule": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/DomainKit.build/University+Normalization~partial.swiftmodule",
+    "swift-dependencies": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/DomainKit.build/University+Normalization.swiftdeps",
+    "diagnostics": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/DomainKit.build/University+Normalization.dia"
+  }
+}

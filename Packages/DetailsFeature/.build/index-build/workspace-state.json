@@ -1,0 +1,41 @@
+{
+  "object" : {
+    "artifacts" : [
+
+    ],
+    "dependencies" : [
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "commonui",
+          "kind" : "fileSystem",
+          "location" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/CommonUI",
+          "name" : "CommonUI"
+        },
+        "state" : {
+          "name" : "fileSystem",
+          "path" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/CommonUI"
+        },
+        "subpath" : "commonui"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "domainkit",
+          "kind" : "fileSystem",
+          "location" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/DomainKit",
+          "name" : "DomainKit"
+        },
+        "state" : {
+          "name" : "fileSystem",
+          "path" : "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/DomainKit"
+        },
+        "subpath" : "domainkit"
+      }
+    ],
+    "prebuilts" : [
+
+    ]
+  },
+  "version" : 7
+}

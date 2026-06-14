@@ -1,0 +1,47 @@
+{
+  "": {
+    "swift-dependencies": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/CommonUI.build/master.swiftdeps"
+  },
+  "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/CommonUI/Sources/CommonUI/EmptyStateView.swift": {
+    "dependencies": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/CommonUI.build/EmptyStateView.d",
+    "object": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/CommonUI.build/EmptyStateView.swift.o",
+    "swiftmodule": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/CommonUI.build/EmptyStateView~partial.swiftmodule",
+    "swift-dependencies": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/CommonUI.build/EmptyStateView.swiftdeps",
+    "diagnostics": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/CommonUI.build/EmptyStateView.dia"
+  },
+  "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/CommonUI/Sources/CommonUI/ErrorStateView.swift": {
+    "dependencies": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/CommonUI.build/ErrorStateView.d",
+    "object": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/CommonUI.build/ErrorStateView.swift.o",
+    "swiftmodule": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/CommonUI.build/ErrorStateView~partial.swiftmodule",
+    "swift-dependencies": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/CommonUI.build/ErrorStateView.swiftdeps",
+    "diagnostics": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/CommonUI.build/ErrorStateView.dia"
+  },
+  "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/CommonUI/Sources/CommonUI/InfoBanner.swift": {
+    "dependencies": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/CommonUI.build/InfoBanner.d",
+    "object": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/CommonUI.build/InfoBanner.swift.o",
+    "swiftmodule": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/CommonUI.build/InfoBanner~partial.swiftmodule",
+    "swift-dependencies": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/CommonUI.build/InfoBanner.swiftdeps",
+    "diagnostics": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/CommonUI.build/InfoBanner.dia"
+  },
+  "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/CommonUI/Sources/CommonUI/LoadingListView.swift": {
+    "dependencies": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/CommonUI.build/LoadingListView.d",
+    "object": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/CommonUI.build/LoadingListView.swift.o",
+    "swiftmodule": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/CommonUI.build/LoadingListView~partial.swiftmodule",
+    "swift-dependencies": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/CommonUI.build/LoadingListView.swiftdeps",
+    "diagnostics": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/CommonUI.build/LoadingListView.dia"
+  },
+  "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/CommonUI/Sources/CommonUI/Shimmer.swift": {
+    "dependencies": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/CommonUI.build/Shimmer.d",
+    "object": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/CommonUI.build/Shimmer.swift.o",
+    "swiftmodule": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/CommonUI.build/Shimmer~partial.swiftmodule",
+    "swift-dependencies": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/CommonUI.build/Shimmer.swiftdeps",
+    "diagnostics": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/CommonUI.build/Shimmer.dia"
+  },
+  "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/CommonUI/Sources/CommonUI/UIViewController+EmbedSwiftUI.swift": {
+    "dependencies": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/CommonUI.build/UIViewController+EmbedSwiftUI.d",
+    "object": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/CommonUI.build/UIViewController+EmbedSwiftUI.swift.o",
+    "swiftmodule": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/CommonUI.build/UIViewController+EmbedSwiftUI~partial.swiftmodule",
+    "swift-dependencies": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/CommonUI.build/UIViewController+EmbedSwiftUI.swiftdeps",
+    "diagnostics": "/Users/sargismkhitaryan/GuideMe/Test_Task/UniversalKit/Packages/ListingFeature/.build/index-build/arm64-apple-macosx/debug/CommonUI.build/UIViewController+EmbedSwiftUI.dia"
+  }
+}
